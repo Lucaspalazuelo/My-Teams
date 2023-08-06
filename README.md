@@ -28,5 +28,5 @@ Exemple :
 ```bash
 make all
 
-./myteams_cli 127.0.0.1 8080
 ./myteams_server 8080
+./myteams_cli 127.0.0.1 8080
